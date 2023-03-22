@@ -1,0 +1,24 @@
+@font-face{
+    font-family: 'mifuente';
+    src: url('Fuentes/SharpGroteskBook21.woff2');
+}
+@font-face {
+    font-family: 'LubalinBook';
+    src: url('Fuentes/LubalinGraphStd-Book.otf');
+}
+@font-face {
+    font-family: 'LubalinDemi';
+    src: url('Fuentes/LubalinGraphStd-Demi.otf');
+}
+@font-face {
+    font-family: 'AvenirBlack';
+    src: url('Fuentes/AvenirLTStd-Black.otf');
+}
+@font-face {
+    font-family: 'AvenirBook';
+    src: url('Fuentes/AvenirLTStd-Book.otf');
+}
+@font-face {
+    font-family: 'AvenirRoman';
+    src: url('Fuentes/AvenirLTStd-Roman.otf');
+}

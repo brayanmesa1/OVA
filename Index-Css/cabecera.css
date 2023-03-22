@@ -1,0 +1,27 @@
+.cabecera{
+    background-color: #080008;
+    text-align: center;
+    padding: 8%;
+    font-family: 'LubalinDemi';
+}
+
+.cabecera p{
+    font-family: 'LubalinBook';
+}
+
+.Encabezado-principal{
+    font-size: 350%;
+    color: #fff;
+    margin: 2% 0% 2% 0%;
+}
+
+.Imagen-encabezado{
+    width: 20%;
+    margin: 2% 0% 2% 0%;
+}
+
+.autor{
+    font-size: 80%;
+    color: #fff;
+    margin: 2% 0% 2% 0%;
+}

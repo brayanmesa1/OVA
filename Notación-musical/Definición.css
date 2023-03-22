@@ -1,0 +1,21 @@
+.Definicion{
+    background-color: #f5f5f5;
+    color: #000;
+    text-align: center;
+    font-family: 'LubalinDemi';
+    font-size: 150%;
+}
+
+.Definicion h2{
+    padding: 5% 0% 0% 0%;
+}
+
+.Definicion p{
+    font-family: 'LubalinBook';
+    padding: 5% 0%;
+    margin: 0% 15%;  
+}
+
+.Definicion img{
+    width: 50%;
+}
